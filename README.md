@@ -27,7 +27,7 @@ The repository includes:
 
 You can also use another compatible Java distribution, such as Amazon Corretto or OpenJDK.
 
-You just need to modify the code to accept it! It's easy! It takes just 10 lines — a quick copy-paste and a few tweaks are all it takes. No clickbait, I made it easy to modify and fix.
+You just need to modify the code to accept it! It's easy! It takes just 10 lines — a quick copy-paste and a few tweaks are all it takes. No clickbait, I made it easy to modify and fix,2 minutes+redbull 
 
 ## Credits
 
