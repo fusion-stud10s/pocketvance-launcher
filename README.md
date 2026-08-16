@@ -24,7 +24,7 @@ The repository includes:
 * Java 18 x86
 * Java 25 x64
 
-You can also use another compatible Java distribution, such as Amazon Corretto or OpenJDK.(You just need to modify the code to accept it! It's easy! It takes just 10 lines—a quick copy-paste and a few tweaks are all it takes!)
+You can also use another compatible Java distribution, such as Amazon Corretto or OpenJDK.(You just need to modify the code to accept it! It's easy! It takes just 10 lines—a quick copy-paste and a few tweaks are all it takes! no clickbait,i made to be easy to fix)
 
 ## Credits
 
@@ -33,6 +33,17 @@ Please preserve the required copyright and license notices of PocketVance and it
 ## License
 
 PocketVance is licensed under the MIT License.
+
+### Compatibility 
+ 
+PocketVance is designed to run on a wide range of Windows systems, 
+including Windows XP to 11. 
+ 
+Windows 2000-98SE may be supported with KernelEx.
+
+Custom RAM allocation 
+Up to 2 TB on x64 systems 
+Low-memory configurations supported
 
 ## Disclaimer
 
