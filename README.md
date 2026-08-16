@@ -1,6 +1,6 @@
 # PocketVance Launcher
 
-A Batch-developed Minecraft launcher, super lean and designed to force the execution of almost any Minecraft version, as long as it is at least 75%+ compatible.
+A Minecraft launcher made by a teenager who wanted less bloatware. Super lean and designed to force almost any Minecraft version to run, especially on NanoLite Windows builds that remove many dependencies required by other launchers.
 
 # PocketVance Minecraft Launcher
 
