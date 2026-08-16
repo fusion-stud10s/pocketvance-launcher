@@ -1,5 +1,6 @@
-# pocketvance-launcher
-A batch-developed Minecraft launcher, super lean and forces the execution of any version (if it's at least 75%+ compatible).
+# PocketVance Launcher
+
+A Batch-developed Minecraft launcher, super lean and designed to force the execution of almost any Minecraft version, as long as it is at least 75%+ compatible.
 
 # PocketVance Minecraft Launcher
 
@@ -11,7 +12,7 @@ An extremely lightweight and portable Minecraft launcher written entirely in Bat
 * Portable
 * Multiple Java versions and architectures
 * Configurable RAM allocation
-* Minecraft 1.8.9 is included as an example of how it works.
+* Minecraft 1.8.9 included as an example
 * Open-source
 
 ## Included Java
@@ -24,7 +25,9 @@ The repository includes:
 * Java 18 x86
 * Java 25 x64
 
-You can also use another compatible Java distribution, such as Amazon Corretto or OpenJDK.(You just need to modify the code to accept it! It's easy! It takes just 10 lines—a quick copy-paste and a few tweaks are all it takes! no clickbait,i made to be easy to fix)
+You can also use another compatible Java distribution, such as Amazon Corretto or OpenJDK.
+
+You just need to modify the code to accept it! It's easy! It takes just 10 lines — a quick copy-paste and a few tweaks are all it takes. No clickbait, I made it easy to modify and fix.
 
 ## Credits
 
@@ -34,19 +37,22 @@ Please preserve the required copyright and license notices of PocketVance and it
 
 PocketVance is licensed under the MIT License.
 
-### Compatibility 
- 
-PocketVance is designed to run on a wide range of Windows systems, 
-including Windows XP to 11. 
- 
-Windows 2000-98SE may be supported with KernelEx.
+## Compatibility
 
-Custom RAM allocation 
-Up to 2 TB on x64 systems 
-Low-memory configurations supported
+PocketVance is designed to run on a wide range of Windows systems, including Windows XP through Windows 11.
+
+Windows 2000 through Windows 98 SE may be supported with KernelEx.
+
+### RAM Allocation
+
+* Custom RAM allocation
+* Up to 2 TB on x64 systems
+* Low-memory configurations supported
 
 ## Disclaimer
 
-PocketVance is not affiliated with or endorsed by Mojang Studios or Microsoft.(so much so that you can only log in with an offline account)
-Minecraft and related assets belong to their respective owners.
+PocketVance is not affiliated with or endorsed by Mojang Studios or Microsoft.
 
+PocketVance currently supports offline accounts only.
+
+Minecraft and related assets belong to their respective owners.
